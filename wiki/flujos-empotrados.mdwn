@@ -1,5 +1,5 @@
 
-[[!img sin_filtros-top.png class="align-left"]]
+[[!img img/sin_filtros-top.png class="align-left"]]
 
 Esta oja contendra informacion relevante a flujos y sistemas empotradas. 
 por ahora no representa la instalacion de flujos-vivos en alguna SoC, sino empezamos con la instalacion de debian/squeeze y aplcaciones de relevantes a flujos y multimedia en la red. 
@@ -14,7 +14,7 @@ agarrar el codigo y instalarlo al tarjeta SD. aqui -mmc refiera a disponitivo de
 
     git clone git://github.com/RobertCNelson/netinstall-omap.git
 
-[[!img sin_filtros-side.png class="align-right"]]
+[[!img img/sin_filtros-side.png class="align-right"]]
 
 para utlizar 2.6.35 en lugar de 2.6.37:
 
@@ -37,6 +37,6 @@ ahora mueva el SD (MMC) al beagle y dele corriente. al prompt configura el carga
 
 ##imagenes
 
-[[!img sin_filtros-open.png class="align-left"]]
-[[!img sin_filtros-bottom.png class="align-left"]]
-[[!img sin_filtros-side2.png class="align-left"]]
+[[!img img/sin_filtros-open.png class="align-left"]]
+[[!img img/sin_filtros-bottom.png class="align-left"]]
+[[!img img/sin_filtros-side2.png class="align-left"]]
