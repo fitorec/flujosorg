@@ -11,16 +11,28 @@ a {color: #000}
   }
 
 pre {
-    margin: 0 1em;
-    padding: .5em;
-    background-color: #000;
-    color: #fff;
+    margin: 10px 5px;
+    padding: .2em .5em .5em 1.5em;
+    background: #141414 url(shell_icon.gif) no-repeat scroll 5px 5px;
+    color: #F0F0F0;
     font-weight: bold;
-    font-size: 110%;
+    font-size: 1.05em;
     display: inline-block;
-
+    font-family:"Bitstream Vera Sans Mono",Monaco,"Lucida Console",monospace;
+    box-shadow: 0 0 15px #aaa;
+	-moz-box-shadow: 0 0 15px #aaa;
+	-webkit-box-shadow: 0 0 15px #aaa;
+	border: 1px solid #FFF;
+	border-radius: 0.3em;
+	-moz-border-radius: 0.3em;
+	-webkit-radius: 0.3em;
     }
 
 img {
     margin:0.5ex;
-    } 
+    }
+code {
+	background: #E5E5E5;
+	font-family: monospace;
+	border: 1px solid #AAA;
+	}
